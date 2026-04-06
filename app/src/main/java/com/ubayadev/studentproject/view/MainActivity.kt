@@ -27,4 +27,5 @@ class MainActivity : AppCompatActivity() {
         return navController.navigateUp()
     }
     //buat glen
+    //buat glen2
 }
