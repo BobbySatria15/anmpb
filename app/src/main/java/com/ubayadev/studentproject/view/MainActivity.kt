@@ -26,6 +26,5 @@ class MainActivity : AppCompatActivity() {
     override fun onSupportNavigateUp(): Boolean {
         return navController.navigateUp()
     }
-    //buat glen
-    //buat glen2
+    //boby suka coding
 }
