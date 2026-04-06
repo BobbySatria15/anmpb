@@ -8,7 +8,7 @@ import androidx.navigation.ui.NavigationUI
 import androidx.navigation.ui.setupWithNavController
 import com.ubayadev.studentproject.R
 import com.ubayadev.studentproject.databinding.ActivityMainBinding
-
+//oiit
 private lateinit var binding: ActivityMainBinding
 private lateinit var navController: NavController
 class MainActivity : AppCompatActivity() {
